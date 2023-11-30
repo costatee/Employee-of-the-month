@@ -1,0 +1,30 @@
+
+    html 
+    {
+      background-color: black;
+      color: white;
+      font-size: 18px;
+      text-align: center;
+    }
+
+    #box
+    {
+      margin-top: 15%;
+      margin-left: 25%;
+      width: 50%;
+    }
+    
+    h1
+    {
+      font-family: 'Libre Baskerville', serif;
+      font-size: 30px;
+      text-transform: uppercase;
+    }
+
+    #lili
+    {
+      border: solid white 5px;
+      padding: 10px;
+      padding-bottom: 0px;
+      width: 100%;
+    }
